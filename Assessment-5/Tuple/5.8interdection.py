@@ -1,4 +1,4 @@
-tuple1 = {"apple", "banana", "orange"}
-tuple2 = {"banana", "orange", "grape", "kiwi"}
-new_tuple = tuple1.intersection(tuple2)
-print(new_tuple)
+set1 = {"apple", "banana", "orange"}
+set2 = {"banana", "orange", "grape", "kiwi"}
+new_set = set1.intersection(set2)
+print(new_set)
