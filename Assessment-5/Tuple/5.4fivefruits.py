@@ -1,2 +1,2 @@
-tuple = ("apple", "banana", "cherry", "orange", "grape")
-print(tuple)
+set = {"apple", "banana", "cherry", "orange", "grape"}
+print(set)
