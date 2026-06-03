@@ -1,7 +1,7 @@
-tuple1 = ("apple", "banana", "cherry", "orange", "grape")
+set1 = {"apple", "banana", "cherry", "orange", "grape"}
 
-tuple2 = ("kiwi",)
+set2 = {"kiwi"}
 
-tuple1 += tuple2
+set3 = set1 | set2
 
-print(tuple1)
+print(set3)
